@@ -1,2 +1,2 @@
 eclipse-mosquitto:2
---platform=linux/arm64
+--platform linux/arm64 cooderl/wewe-rss-sqlite:latest
