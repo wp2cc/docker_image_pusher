@@ -1,1 +1,1 @@
- alpine
+teslamate/teslamate:latest
