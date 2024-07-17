@@ -1,1 +1,1 @@
- image: teslamate/teslamate:latest
+ alpine
