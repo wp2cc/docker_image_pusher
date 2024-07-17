@@ -1,1 +1,1 @@
---platform linux/arm64 cooderl/eclipse-mosquitto:latest
+--platform linux/arm64 cooderl/teslamate:latest
