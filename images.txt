@@ -1,1 +1,1 @@
-teslamate/teslamate:latest
+postgres:16
