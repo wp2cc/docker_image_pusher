@@ -1,1 +1,2 @@
 eclipse-mosquitto:2
+--platform=arm64
