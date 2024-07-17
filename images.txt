@@ -1,1 +1,1 @@
-teslamate/grafana:latest
+eclipse-mosquitto:2
