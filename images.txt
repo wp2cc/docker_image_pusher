@@ -1,1 +1,1 @@
---platform linux/arm64 postgres:15
+--platform linux/arm64 teslamate/grafana:latest
