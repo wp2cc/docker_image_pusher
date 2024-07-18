@@ -1,1 +1,1 @@
---platform linux/arm64 cooderl/teslamate
+--platform linux/arm64 teslamate/teslamate:latest
