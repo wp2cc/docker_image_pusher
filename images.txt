@@ -1,1 +1,1 @@
---platform linux/arm64 teslamate/grafana:latest
+--platform linux/arm64 eclipse-mosquitto:2
