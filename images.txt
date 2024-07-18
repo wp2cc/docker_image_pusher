@@ -1,1 +1,1 @@
---platform linux/arm64 teslamate/teslamate:latest
+--platform linux/arm64 postgres:15
